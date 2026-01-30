@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 - 💼 I’m working on projects involving computer vision, NLP, multimodal deep learning, GenAI, RAG and more.
-- 🎯 Goals for 2025: Make amazing projects with LangGraph
+- 🎯 Goals for 2026: Make amazing open source contributions with LangGraph
 - 📫 How to reach me: Message me here on GitHub or on LinkedIn!
 
 ## 🛠 Skills
